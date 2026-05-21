@@ -389,14 +389,16 @@ document.addEventListener('contextmenu', function(e) {
 <script>
 document.addEventListener('DOMContentLoaded', function() {
     document.querySelectorAll('[data-href]').forEach(function(el) {
-        el.addEventListener('click', function(e) {
-            var href = this.getAttribute('data-href');
-            if (href && !href.startsWith('#')) {
+        var href = el.getAttribute('data-href');
+        if (href && !href.startsWith('#')) {
+            el.classList.remove('u-lightbox');
+            el.style.cursor = 'pointer';
+            el.addEventListener('click', function(e) {
                 e.preventDefault();
                 e.stopPropagation();
                 window.open(href, '_blank');
-            }
-        });
+            });
+        }
     });
 });
 </script>
