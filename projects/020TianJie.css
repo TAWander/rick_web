@@ -1,0 +1,456 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 186px;
+}
+
+.u-section-1 .u-group-1 {
+  width: 566px;
+  min-height: 184px;
+  height: auto;
+  margin: 1px auto;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 3rem;
+  margin: 43px 0 0;
+}
+
+.u-section-1 .u-text-2 {
+  margin: 6px auto 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-group-1 {
+    height: auto;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-group-1 {
+    width: 540px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 2.25rem;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 122px;
+  }
+
+  .u-section-1 .u-group-1 {
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 1.875rem;
+  }
+} .u-section-2 {
+  background-image: url("../images/tianweef.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-2 .u-sheet-1 {
+  min-height: 1267px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 518px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 397px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 298px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 291px;
+  }
+}.u-section-3 .u-sheet-1 {
+  min-height: 2618px;
+}
+
+.u-section-3 .u-layout-wrap-1 {
+  width: 2200px;
+  margin: 38px auto;
+}
+
+.u-section-3 .u-image-1 {
+  min-height: 852px;
+  background-image: url("../images/tiand7bc1a.jpg");
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.u-section-3 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-3 .u-layout-cell-2 {
+  min-height: 852px;
+}
+
+.u-section-3 .u-container-layout-2 {
+  padding: 30px;
+}
+
+.u-section-3 .u-layout-cell-3 {
+  min-height: 852px;
+}
+
+.u-section-3 .u-container-layout-3 {
+  padding: 30px;
+}
+
+.u-section-3 .u-image-2 {
+  min-height: 852px;
+  background-image: url("../images/tianW15261.jpg");
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.u-section-3 .u-container-layout-4 {
+  padding: 30px;
+}
+
+.u-section-3 .u-image-3 {
+  min-height: 852px;
+  background-image: url("../images/tian5155rdx.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-3 .u-container-layout-5 {
+  padding: 30px;
+}
+
+.u-section-3 .u-layout-cell-6 {
+  min-height: 852px;
+}
+
+.u-section-3 .u-container-layout-6 {
+  padding: 30px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 1370px;
+  }
+
+  .u-section-3 .u-layout-wrap-1 {
+    width: 940px;
+  }
+
+  .u-section-3 .u-image-1 {
+    min-height: 364px;
+  }
+
+  .u-section-3 .u-layout-cell-2 {
+    min-height: 364px;
+  }
+
+  .u-section-3 .u-layout-cell-3 {
+    min-height: 364px;
+  }
+
+  .u-section-3 .u-image-2 {
+    min-height: 364px;
+  }
+
+  .u-section-3 .u-image-3 {
+    min-height: 364px;
+  }
+
+  .u-section-3 .u-layout-cell-6 {
+    min-height: 364px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 1268px;
+  }
+
+  .u-section-3 .u-layout-wrap-1 {
+    width: 720px;
+  }
+
+  .u-section-3 .u-image-1 {
+    min-height: 279px;
+  }
+
+  .u-section-3 .u-layout-cell-2 {
+    min-height: 279px;
+  }
+
+  .u-section-3 .u-layout-cell-3 {
+    min-height: 279px;
+  }
+
+  .u-section-3 .u-image-2 {
+    min-height: 279px;
+  }
+
+  .u-section-3 .u-image-3 {
+    min-height: 279px;
+  }
+
+  .u-section-3 .u-layout-cell-6 {
+    min-height: 279px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 1152px;
+  }
+
+  .u-section-3 .u-layout-wrap-1 {
+    width: 540px;
+  }
+
+  .u-section-3 .u-image-1 {
+    min-height: 221px;
+  }
+
+  .u-section-3 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-3 .u-layout-cell-2 {
+    min-height: 289px;
+  }
+
+  .u-section-3 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-3 .u-layout-cell-3 {
+    min-height: 313px;
+  }
+
+  .u-section-3 .u-container-layout-3 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-3 .u-image-2 {
+    min-height: 209px;
+  }
+
+  .u-section-3 .u-container-layout-4 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-3 .u-image-3 {
+    min-height: 306px;
+  }
+
+  .u-section-3 .u-container-layout-5 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-3 .u-layout-cell-6 {
+    min-height: 661px;
+  }
+
+  .u-section-3 .u-container-layout-6 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 535px;
+  }
+
+  .u-section-3 .u-layout-wrap-1 {
+    width: 340px;
+    margin-bottom: 0;
+  }
+
+  .u-section-3 .u-image-1 {
+    min-height: 213px;
+  }
+
+  .u-section-3 .u-layout-cell-2 {
+    min-height: 7px;
+  }
+
+  .u-section-3 .u-container-layout-2 {
+    padding: 0;
+  }
+
+  .u-section-3 .u-layout-cell-3 {
+    min-height: 3px;
+  }
+
+  .u-section-3 .u-container-layout-3 {
+    padding: 0;
+  }
+
+  .u-section-3 .u-image-2 {
+    min-height: 205px;
+  }
+
+  .u-section-3 .u-image-3 {
+    min-height: 220px;
+  }
+
+  .u-section-3 .u-layout-cell-6 {
+    min-height: 20px;
+  }
+
+  .u-section-3 .u-container-layout-6 {
+    padding: 0;
+  }
+}.u-section-4 .u-sheet-1 {
+  min-height: 696px;
+}
+
+.u-section-4 .u-layout-wrap-1 {
+  width: 2200px;
+  margin: 43px auto 58px;
+}
+
+.u-section-4 .u-image-1 {
+  min-height: 605px;
+  background-image: url("../images/tianb5f828.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-4 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-4 .u-image-2 {
+  min-height: 605px;
+  filter: none;
+  background-image: url("../images/tianwee.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-4 .u-container-layout-2 {
+  padding: 30px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 216px;
+  }
+
+  .u-section-4 .u-layout-wrap-1 {
+    width: 940px;
+  }
+
+  .u-section-4 .u-image-1 {
+    min-height: 259px;
+  }
+
+  .u-section-4 .u-image-2 {
+    min-height: 259px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 132px;
+  }
+
+  .u-section-4 .u-layout-wrap-1 {
+    width: 720px;
+  }
+
+  .u-section-4 .u-image-1 {
+    min-height: 198px;
+  }
+
+  .u-section-4 .u-image-2 {
+    min-height: 198px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 684px;
+  }
+
+  .u-section-4 .u-layout-wrap-1 {
+    width: 540px;
+  }
+
+  .u-section-4 .u-image-1 {
+    min-height: 297px;
+  }
+
+  .u-section-4 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-4 .u-image-2 {
+    min-height: 297px;
+  }
+
+  .u-section-4 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 406px;
+  }
+
+  .u-section-4 .u-layout-wrap-1 {
+    margin-top: 5px;
+    margin-bottom: 21px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+
+  .u-section-4 .u-image-1 {
+    min-height: 187px;
+  }
+
+  .u-section-4 .u-image-2 {
+    min-height: 187px;
+  }
+}.u-section-5 .u-sheet-1 {
+  min-height: 200px;
+}
+
+@media (max-width: 575px) {
+  .u-section-5 .u-sheet-1 {
+    min-height: 100px;
+  }
+}

@@ -1,0 +1,303 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 200px;
+}.u-section-2 .u-sheet-1 {
+  min-height: 790px;
+}
+
+.u-section-2 .u-video-1 {
+  filter: none;
+  width: 1404px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-video-1 {
+    height: 790px;
+    margin-top: 0;
+    margin-bottom: 0;
+    width: auto;
+    left: auto;
+    bottom: auto;
+    right: auto;
+    top: auto;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 352px;
+  }
+
+  .u-section-2 .u-video-1 {
+    height: 353px;
+    width: auto;
+  }
+}.u-section-3 .u-sheet-1 {
+  min-height: 263px;
+}
+
+.u-section-3 .u-group-1 {
+  width: 497px;
+  min-height: 173px;
+  height: auto;
+  margin: 90px auto 0;
+}
+
+.u-section-3 .u-container-layout-1 {
+  padding: 0 30px;
+}
+
+.u-section-3 .u-text-1 {
+  font-size: 3rem;
+  margin: 42px 16px 0;
+}
+
+.u-section-3 .u-text-2 {
+  margin: 10px auto 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-3 .u-group-1 {
+    height: auto;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-3 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-3 .u-text-1 {
+    font-size: 2.25rem;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-3 .u-group-1 {
+    width: 340px;
+  }
+
+  .u-section-3 .u-text-1 {
+    font-size: 1.875rem;
+    margin-left: 0;
+    margin-right: 0;
+  }
+} .u-section-4 {
+  background-image: url("../images/Perfume_34.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-4 .u-sheet-1 {
+  min-height: 1255px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 513px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 393px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 295px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 313px;
+  }
+}.u-section-5 .u-sheet-1 {
+  min-height: 1491px;
+}
+
+.u-section-5 .u-layout-wrap-1 {
+  margin-top: 65px;
+  margin-bottom: 60px;
+}
+
+.u-section-5 .u-image-1 {
+  min-height: 849px;
+  background-image: url("../images/Perfume_3005.635.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-5 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-5 .u-image-2 {
+  min-height: 849px;
+  background-image: url("../images/Perfume_3011.695.jpg");
+  background-position: 19.31% 50%;
+  background-size: cover;
+}
+
+.u-section-5 .u-container-layout-2 {
+  padding: 30px;
+}
+
+.u-section-5 .u-image-3 {
+  min-height: 458px;
+  background-image: url("../images/Perfume_3004.367.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-5 .u-container-layout-3 {
+  padding: 30px;
+}
+
+.u-section-5 .u-image-4 {
+  min-height: 458px;
+  background-image: url("../images/Perfume_3014.388.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-5 .u-container-layout-4 {
+  padding: 30px;
+}
+
+.u-section-5 .u-image-5 {
+  min-height: 458px;
+  background-image: url("../images/Perfume_3000.000.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-5 .u-container-layout-5 {
+  padding: 30px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-5 .u-sheet-1 {
+    min-height: 805px;
+  }
+
+  .u-section-5 .u-image-1 {
+    min-height: 347px;
+  }
+
+  .u-section-5 .u-image-2 {
+    min-height: 347px;
+  }
+
+  .u-section-5 .u-image-3 {
+    min-height: 187px;
+  }
+
+  .u-section-5 .u-image-4 {
+    min-height: 187px;
+  }
+
+  .u-section-5 .u-image-5 {
+    min-height: 187px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-5 .u-sheet-1 {
+    min-height: 679px;
+  }
+
+  .u-section-5 .u-image-1 {
+    min-height: 266px;
+  }
+
+  .u-section-5 .u-image-2 {
+    min-height: 266px;
+  }
+
+  .u-section-5 .u-image-3 {
+    min-height: 143px;
+  }
+
+  .u-section-5 .u-image-4 {
+    min-height: 143px;
+  }
+
+  .u-section-5 .u-image-5 {
+    min-height: 143px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-5 .u-sheet-1 {
+    min-height: 1711px;
+  }
+
+  .u-section-5 .u-image-1 {
+    min-height: 413px;
+  }
+
+  .u-section-5 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-5 .u-image-2 {
+    min-height: 386px;
+  }
+
+  .u-section-5 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-5 .u-image-3 {
+    min-height: 322px;
+  }
+
+  .u-section-5 .u-container-layout-3 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-5 .u-image-4 {
+    min-height: 322px;
+  }
+
+  .u-section-5 .u-container-layout-4 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-5 .u-image-5 {
+    min-height: 322px;
+  }
+
+  .u-section-5 .u-container-layout-5 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-5 .u-sheet-1 {
+    min-height: 1175px;
+  }
+
+  .u-section-5 .u-image-1 {
+    min-height: 260px;
+  }
+
+  .u-section-5 .u-image-2 {
+    min-height: 243px;
+  }
+
+  .u-section-5 .u-image-3 {
+    min-height: 203px;
+  }
+
+  .u-section-5 .u-image-4 {
+    min-height: 203px;
+  }
+
+  .u-section-5 .u-image-5 {
+    min-height: 203px;
+  }
+}

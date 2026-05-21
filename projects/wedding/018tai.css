@@ -1,0 +1,623 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 186px;
+}
+
+.u-section-1 .u-group-1 {
+  width: 566px;
+  min-height: 184px;
+  height: auto;
+  margin: 1px auto;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 3rem;
+  margin: 43px 0 0;
+}
+
+.u-section-1 .u-text-2 {
+  margin: 6px auto 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-group-1 {
+    height: auto;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-group-1 {
+    width: 540px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 2.25rem;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 122px;
+  }
+
+  .u-section-1 .u-group-1 {
+    min-height: 123px;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 1.875rem;
+  }
+} .u-section-2 {
+  background-image: url("../../../images/tai12_39_5.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-2 .u-sheet-1 {
+  min-height: 1070px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 953px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 300px;
+  }
+}.u-section-3 .u-sheet-1 {
+  min-height: 713px;
+}
+
+.u-section-3 .u-layout-wrap-1 {
+  width: 1800px;
+  margin: 60px auto;
+}
+
+.u-section-3 .u-image-1 {
+  min-height: 588px;
+  background-image: url("../../../images/tai12_39_7.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-3 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-3 .u-image-2 {
+  min-height: 588px;
+  background-image: url("../../../images/tai12_39_2.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-3 .u-container-layout-2 {
+  padding: 30px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 436px;
+  }
+
+  .u-section-3 .u-layout-wrap-1 {
+    width: 940px;
+  }
+
+  .u-section-3 .u-image-1 {
+    min-height: 307px;
+  }
+
+  .u-section-3 .u-image-2 {
+    min-height: 307px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 365px;
+  }
+
+  .u-section-3 .u-layout-wrap-1 {
+    width: 720px;
+  }
+
+  .u-section-3 .u-image-1 {
+    min-height: 235px;
+  }
+
+  .u-section-3 .u-image-2 {
+    min-height: 235px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 829px;
+  }
+
+  .u-section-3 .u-layout-wrap-1 {
+    width: 540px;
+  }
+
+  .u-section-3 .u-image-1 {
+    min-height: 353px;
+  }
+
+  .u-section-3 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-3 .u-image-2 {
+    min-height: 353px;
+  }
+
+  .u-section-3 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 510px;
+  }
+
+  .u-section-3 .u-layout-wrap-1 {
+    width: 340px;
+    margin-bottom: 20px;
+  }
+
+  .u-section-3 .u-image-1 {
+    min-height: 222px;
+  }
+
+  .u-section-3 .u-image-2 {
+    min-height: 222px;
+  }
+}.u-section-4 .u-sheet-1 {
+  min-height: 1009px;
+}
+
+.u-section-4 .u-image-1 {
+  width: 1638px;
+  min-height: 930px;
+  background-image: url("../../../images/tai12_39_1.jpg");
+  height: auto;
+  margin: 0 auto 60px;
+}
+
+.u-section-4 .u-container-layout-1 {
+  padding: 30px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-4 .u-image-1 {
+    width: 940px;
+    height: auto;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-4 .u-image-1 {
+    width: 720px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-4 .u-image-1 {
+    width: 540px;
+  }
+
+  .u-section-4 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 300px;
+  }
+
+  .u-section-4 .u-image-1 {
+    min-height: 300px;
+    margin-bottom: 0;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+}.u-section-5 .u-sheet-1 {
+  min-height: 200px;
+}
+
+@media (max-width: 575px) {
+  .u-section-5 .u-sheet-1 {
+    min-height: 110px;
+  }
+} .u-section-6 {
+  background-image: url("../../../images/tai5.27_12.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-6 .u-sheet-1 {
+  min-height: 1070px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-6 .u-sheet-1 {
+    min-height: 953px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-6 .u-sheet-1 {
+    min-height: 304px;
+  }
+}.u-section-7 .u-sheet-1 {
+  min-height: 713px;
+}
+
+.u-section-7 .u-layout-wrap-1 {
+  width: 1800px;
+  margin: 60px auto;
+}
+
+.u-section-7 .u-image-1 {
+  min-height: 588px;
+  background-image: url("../../../images/tai12_39_8.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-7 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-7 .u-image-2 {
+  min-height: 588px;
+  background-image: url("../../../images/tai5.27_5.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-7 .u-container-layout-2 {
+  padding: 30px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-7 .u-sheet-1 {
+    min-height: 436px;
+  }
+
+  .u-section-7 .u-layout-wrap-1 {
+    width: 940px;
+  }
+
+  .u-section-7 .u-image-1 {
+    min-height: 307px;
+  }
+
+  .u-section-7 .u-image-2 {
+    min-height: 307px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-7 .u-sheet-1 {
+    min-height: 365px;
+  }
+
+  .u-section-7 .u-layout-wrap-1 {
+    width: 720px;
+  }
+
+  .u-section-7 .u-image-1 {
+    min-height: 235px;
+  }
+
+  .u-section-7 .u-image-2 {
+    min-height: 235px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-7 .u-sheet-1 {
+    min-height: 829px;
+  }
+
+  .u-section-7 .u-layout-wrap-1 {
+    width: 540px;
+  }
+
+  .u-section-7 .u-image-1 {
+    min-height: 353px;
+  }
+
+  .u-section-7 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-7 .u-image-2 {
+    min-height: 353px;
+  }
+
+  .u-section-7 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-7 .u-sheet-1 {
+    min-height: 510px;
+  }
+
+  .u-section-7 .u-layout-wrap-1 {
+    width: 340px;
+    margin-bottom: 20px;
+  }
+
+  .u-section-7 .u-image-1 {
+    min-height: 222px;
+  }
+
+  .u-section-7 .u-image-2 {
+    min-height: 222px;
+  }
+}.u-section-8 .u-sheet-1 {
+  min-height: 1009px;
+}
+
+.u-section-8 .u-image-1 {
+  width: 1638px;
+  min-height: 930px;
+  height: auto;
+  filter: none;
+  background-image: url("../../../images/tai5.27_1.jpg");
+  margin: 0 auto 60px;
+}
+
+.u-section-8 .u-container-layout-1 {
+  padding: 30px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-8 .u-image-1 {
+    width: 940px;
+    background-position: 50% 50%;
+    height: auto;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-8 .u-image-1 {
+    width: 720px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-8 .u-image-1 {
+    width: 540px;
+  }
+
+  .u-section-8 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-8 .u-sheet-1 {
+    min-height: 328px;
+  }
+
+  .u-section-8 .u-image-1 {
+    min-height: 300px;
+    margin-bottom: 29px;
+    width: 100%;
+  }
+}.u-section-9 .u-sheet-1 {
+  min-height: 161px;
+}
+
+@media (max-width: 575px) {
+  .u-section-9 .u-sheet-1 {
+    min-height: 100px;
+  }
+}.u-section-10 .u-sheet-1 {
+  min-height: 952px;
+}
+
+.u-section-10 .u-layout-wrap-1 {
+  width: 2132px;
+  margin: 41px auto;
+}
+
+.u-section-10 .u-image-1 {
+  min-height: 884px;
+  background-image: url("../../../images/tai6.2.1_14.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-10 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-10 .u-image-2 {
+  min-height: 884px;
+  background-image: url("../../../images/tai6.2.1_4.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-10 .u-container-layout-2 {
+  padding: 30px;
+}
+
+.u-section-10 .u-image-3 {
+  min-height: 884px;
+  background-image: url("../../../images/tai6.2.1_12.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-10 .u-container-layout-3 {
+  padding: 30px;
+}
+
+.u-section-10 .u-image-4 {
+  min-height: 884px;
+  background-image: url("../../../images/tai6.2.1_22.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-10 .u-container-layout-4 {
+  padding: 30px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-10 .u-sheet-1 {
+    min-height: 458px;
+  }
+
+  .u-section-10 .u-layout-wrap-1 {
+    width: 940px;
+  }
+
+  .u-section-10 .u-image-1 {
+    min-height: 390px;
+  }
+
+  .u-section-10 .u-image-2 {
+    min-height: 390px;
+  }
+
+  .u-section-10 .u-image-3 {
+    min-height: 390px;
+  }
+
+  .u-section-10 .u-image-4 {
+    min-height: 390px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-10 .u-sheet-1 {
+    min-height: 367px;
+  }
+
+  .u-section-10 .u-layout-wrap-1 {
+    width: 720px;
+  }
+
+  .u-section-10 .u-image-1 {
+    min-height: 299px;
+  }
+
+  .u-section-10 .u-image-2 {
+    min-height: 299px;
+  }
+
+  .u-section-10 .u-image-3 {
+    min-height: 299px;
+  }
+
+  .u-section-10 .u-image-4 {
+    min-height: 299px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-10 .u-sheet-1 {
+    min-height: 2759px;
+  }
+
+  .u-section-10 .u-layout-wrap-1 {
+    width: 540px;
+  }
+
+  .u-section-10 .u-image-1 {
+    min-height: 897px;
+  }
+
+  .u-section-10 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-10 .u-image-2 {
+    min-height: 897px;
+  }
+
+  .u-section-10 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-10 .u-image-3 {
+    min-height: 897px;
+  }
+
+  .u-section-10 .u-container-layout-3 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-10 .u-image-4 {
+    min-height: 897px;
+  }
+
+  .u-section-10 .u-container-layout-4 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-10 .u-sheet-1 {
+    min-height: 2025px;
+  }
+
+  .u-section-10 .u-layout-wrap-1 {
+    width: 286px;
+    margin-top: 20px;
+    margin-bottom: 39px;
+  }
+
+  .u-section-10 .u-image-1 {
+    min-height: 493px;
+  }
+
+  .u-section-10 .u-image-2 {
+    min-height: 493px;
+  }
+
+  .u-section-10 .u-image-3 {
+    min-height: 493px;
+  }
+
+  .u-section-10 .u-image-4 {
+    min-height: 502px;
+  }
+}.u-section-11 .u-sheet-1 {
+  min-height: 200px;
+}
+
+@media (max-width: 575px) {
+  .u-section-11 .u-sheet-1 {
+    min-height: 100px;
+  }
+}

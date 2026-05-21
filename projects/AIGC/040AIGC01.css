@@ -1,0 +1,615 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 186px;
+}
+
+.u-section-1 .u-group-1 {
+  width: 831px;
+  min-height: 184px;
+  height: auto;
+  margin: 1px auto;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 3rem;
+  margin: 43px 0 0;
+}
+
+.u-section-1 .u-text-2 {
+  margin: 6px auto 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-group-1 {
+    height: auto;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-group-1 {
+    width: 720px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-group-1 {
+    width: 540px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 2.25rem;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-group-1 {
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 1.875rem;
+  }
+} .u-section-2 {
+  background-image: url("../../images/moving/fix_05.avif");
+  background-position: 50% 50%;
+}
+
+.u-section-2 .u-sheet-1 {
+  min-height: 1237px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 506px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 388px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 291px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 306px;
+  }
+}.u-section-3 .u-sheet-1 {
+  min-height: 834px;
+}
+
+.u-section-3 .u-layout-wrap-1 {
+  width: 2100px;
+  min-height: 678px;
+  margin: 94px auto 60px;
+}
+
+.u-section-3 .u-layout-cell-1 {
+  min-height: 678px;
+}
+
+.u-section-3 .u-container-layout-1 {
+  padding: 30px 0 21px;
+}
+
+.u-section-3 .u-shape-1 {
+  width: 117px;
+  height: 15px;
+  margin: 24px auto 0 62px;
+}
+
+.u-section-3 .u-text-1 {
+  font-size: 1.5rem;
+  margin: 61px 62px 0;
+}
+
+.u-section-3 .u-image-1 {
+  min-height: 678px;
+  background-image: url("../../images/anmi_2.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-3 .u-container-layout-2 {
+  padding: 30px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 862px;
+  }
+
+  .u-section-3 .u-layout-wrap-1 {
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+
+  .u-section-3 .u-layout-cell-1 {
+    min-height: 688px;
+  }
+
+  .u-section-3 .u-shape-1 {
+    margin-top: 0;
+    margin-left: 38px;
+  }
+
+  .u-section-3 .u-text-1 {
+    width: auto;
+    margin-top: 31px;
+    margin-right: 24px;
+    margin-left: 38px;
+  }
+
+  .u-section-3 .u-image-1 {
+    min-height: 303px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 548px;
+  }
+
+  .u-section-3 .u-layout-wrap-1 {
+    margin-top: 65px;
+    margin-bottom: 51px;
+    min-height: 404px;
+    width: auto;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-3 .u-layout-cell-1 {
+    min-height: 432px;
+  }
+
+  .u-section-3 .u-container-layout-1 {
+    padding-top: 0;
+    padding-bottom: 5px;
+  }
+
+  .u-section-3 .u-shape-1 {
+    margin-top: 8px;
+  }
+
+  .u-section-3 .u-text-1 {
+    font-size: 1rem;
+    margin-top: 23px;
+    margin-right: 0;
+  }
+
+  .u-section-3 .u-image-1 {
+    min-height: 432px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 1017px;
+  }
+
+  .u-section-3 .u-layout-wrap-1 {
+    min-height: 447px;
+    width: auto;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-3 .u-layout-cell-1 {
+    min-height: 100px;
+  }
+
+  .u-section-3 .u-image-1 {
+    min-height: 512px;
+  }
+
+  .u-section-3 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 920px;
+  }
+
+  .u-section-3 .u-layout-wrap-1 {
+    min-height: 345px;
+    width: auto;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-3 .u-container-layout-1 {
+    padding: 10px;
+  }
+
+  .u-section-3 .u-shape-1 {
+    margin-top: 17px;
+    margin-left: 8px;
+  }
+
+  .u-section-3 .u-text-1 {
+    margin-top: 31px;
+    margin-left: 31px;
+    margin-right: 31px;
+  }
+
+  .u-section-3 .u-image-1 {
+    min-height: 322px;
+  }
+}.u-section-4 .u-sheet-1 {
+  min-height: 1291px;
+}
+
+.u-section-4 .u-layout-wrap-1 {
+  width: 1980px;
+  margin: 63px auto 60px;
+}
+
+.u-section-4 .u-image-1 {
+  min-height: 809px;
+  background-image: url("../../images/moving/fix_06.avif");
+  background-position: 50% 50%;
+}
+
+.u-section-4 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-4 .u-layout-cell-2 {
+  min-height: 294px;
+}
+
+.u-section-4 .u-container-layout-2 {
+  padding: 30px;
+}
+
+.u-section-4 .u-layout-cell-3 {
+  min-height: 690px;
+}
+
+.u-section-4 .u-container-layout-3 {
+  padding: 30px;
+}
+
+.u-section-4 .u-image-2 {
+  min-height: 413px;
+  background-image: url("../../images/tangTianjieIN4.jpg");
+  background-position: 0% 50%;
+  background-size: cover;
+}
+
+.u-section-4 .u-container-layout-4 {
+  padding: 30px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 583px;
+  }
+
+  .u-section-4 .u-layout-wrap-1 {
+    width: 940px;
+    margin-bottom: 20px;
+  }
+
+  .u-section-4 .u-image-1 {
+    min-height: 384px;
+  }
+
+  .u-section-4 .u-layout-cell-2 {
+    min-height: 140px;
+  }
+
+  .u-section-4 .u-layout-cell-3 {
+    min-height: 328px;
+  }
+
+  .u-section-4 .u-image-2 {
+    min-height: 196px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 1096px;
+  }
+
+  .u-section-4 .u-layout-wrap-1 {
+    margin-top: 80px;
+    margin-bottom: 0;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+
+  .u-section-4 .u-image-1 {
+    min-height: 464px;
+  }
+
+  .u-section-4 .u-layout-cell-2 {
+    min-height: 60px;
+  }
+
+  .u-section-4 .u-layout-cell-3 {
+    min-height: 60px;
+  }
+
+  .u-section-4 .u-image-2 {
+    min-height: 409px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 1676px;
+  }
+
+  .u-section-4 .u-image-1 {
+    min-height: 348px;
+  }
+
+  .u-section-4 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-4 .u-layout-cell-2 {
+    min-height: 45px;
+  }
+
+  .u-section-4 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-4 .u-layout-cell-3 {
+    min-height: 45px;
+  }
+
+  .u-section-4 .u-container-layout-3 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-4 .u-image-2 {
+    min-height: 307px;
+  }
+
+  .u-section-4 .u-container-layout-4 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 519px;
+  }
+
+  .u-section-4 .u-layout-wrap-1 {
+    margin-bottom: 20px;
+    width: auto;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-4 .u-image-1 {
+    min-height: 219px;
+  }
+
+  .u-section-4 .u-layout-cell-2 {
+    min-height: 28px;
+  }
+
+  .u-section-4 .u-container-layout-2 {
+    padding: 0;
+  }
+
+  .u-section-4 .u-layout-cell-3 {
+    min-height: 28px;
+  }
+
+  .u-section-4 .u-container-layout-3 {
+    padding: 0;
+  }
+
+  .u-section-4 .u-image-2 {
+    min-height: 193px;
+  }
+}.u-section-5 .u-sheet-1 {
+  min-height: 1291px;
+}
+
+.u-section-5 .u-layout-wrap-1 {
+  width: 1980px;
+  margin: 63px auto 60px;
+}
+
+.u-section-5 .u-image-1 {
+  min-height: 809px;
+  background-image: url("../../images/moving/fix_07.avif");
+  background-position: 50% 50%;
+}
+
+.u-section-5 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-5 .u-layout-cell-2 {
+  min-height: 294px;
+}
+
+.u-section-5 .u-container-layout-2 {
+  padding: 30px;
+}
+
+.u-section-5 .u-layout-cell-3 {
+  min-height: 690px;
+}
+
+.u-section-5 .u-container-layout-3 {
+  padding: 30px;
+}
+
+.u-section-5 .u-image-2 {
+  min-height: 413px;
+  background-image: url("../../images/tangTianjieIN2.jpg");
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+.u-section-5 .u-container-layout-4 {
+  padding: 30px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-5 .u-sheet-1 {
+    min-height: 582px;
+  }
+
+  .u-section-5 .u-layout-wrap-1 {
+    width: 940px;
+    margin-bottom: 19px;
+  }
+
+  .u-section-5 .u-image-1 {
+    min-height: 384px;
+  }
+
+  .u-section-5 .u-layout-cell-2 {
+    min-height: 140px;
+  }
+
+  .u-section-5 .u-layout-cell-3 {
+    min-height: 328px;
+  }
+
+  .u-section-5 .u-image-2 {
+    min-height: 196px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-5 .u-sheet-1 {
+    min-height: 1123px;
+  }
+
+  .u-section-5 .u-layout-wrap-1 {
+    width: 720px;
+  }
+
+  .u-section-5 .u-image-1 {
+    min-height: 464px;
+  }
+
+  .u-section-5 .u-layout-cell-2 {
+    min-height: 20px;
+  }
+
+  .u-section-5 .u-container-layout-2 {
+    padding: 0;
+  }
+
+  .u-section-5 .u-layout-cell-3 {
+    min-height: 33px;
+  }
+
+  .u-section-5 .u-container-layout-3 {
+    padding: 0;
+  }
+
+  .u-section-5 .u-image-2 {
+    min-height: 409px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-5 .u-sheet-1 {
+    min-height: 1676px;
+  }
+
+  .u-section-5 .u-layout-wrap-1 {
+    width: 540px;
+  }
+
+  .u-section-5 .u-image-1 {
+    min-height: 348px;
+  }
+
+  .u-section-5 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-5 .u-layout-cell-2 {
+    min-height: 15px;
+  }
+
+  .u-section-5 .u-layout-cell-3 {
+    min-height: 25px;
+  }
+
+  .u-section-5 .u-image-2 {
+    min-height: 307px;
+  }
+
+  .u-section-5 .u-container-layout-4 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-5 .u-sheet-1 {
+    min-height: 584px;
+  }
+
+  .u-section-5 .u-layout-wrap-1 {
+    width: 340px;
+    margin-bottom: 9px;
+  }
+
+  .u-section-5 .u-image-1 {
+    min-height: 295px;
+  }
+
+  .u-section-5 .u-layout-cell-2 {
+    min-height: 16px;
+  }
+
+  .u-section-5 .u-layout-cell-3 {
+    min-height: 0;
+  }
+
+  .u-section-5 .u-image-2 {
+    min-height: 193px;
+  }
+}.u-section-6 .u-sheet-1 {
+  min-height: 200px;
+}
+
+@media (max-width: 575px) {
+  .u-section-6 .u-sheet-1 {
+    min-height: 100px;
+  }
+}
