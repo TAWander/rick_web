@@ -63,7 +63,7 @@
   }
 } .u-section-2 {
   filter: none;
-  background-image: url("../../../images/Alice7.jpg");
+  background-image: url("https://rickimage-1322405451.cos.ap-guangzhou.myqcloud.com/images/Alice7.jpg");
   background-position: 50% 50%;
 }
 
@@ -104,7 +104,7 @@
 
 .u-section-3 .u-image-1 {
   min-height: 638px;
-  background-image: url("../../../images/Alice6.jpg");
+  background-image: url("https://rickimage-1322405451.cos.ap-guangzhou.myqcloud.com/images/Alice6.jpg");
   --radius: 30px;
   background-position: 50% 50%;
 }
@@ -132,7 +132,7 @@
 
 .u-section-3 .u-image-2 {
   min-height: 638px;
-  background-image: url("../../../images/Alice1.jpg");
+  background-image: url("https://rickimage-1322405451.cos.ap-guangzhou.myqcloud.com/images/Alice1.jpg");
   background-position: 50% 50%;
   --radius: 30px;
 }
@@ -273,7 +273,7 @@
 
 .u-section-4 .u-image-1 {
   min-height: 868px;
-  background-image: url("../../../images/Alice5.jpg");
+  background-image: url("https://rickimage-1322405451.cos.ap-guangzhou.myqcloud.com/images/Alice5.jpg");
   background-position: 50% 50%;
 }
 
@@ -283,7 +283,7 @@
 
 .u-section-4 .u-image-2 {
   min-height: 868px;
-  background-image: url("../../../images/Alice4.jpg");
+  background-image: url("https://rickimage-1322405451.cos.ap-guangzhou.myqcloud.com/images/Alice4.jpg");
   background-position: 23.73% 50%;
   background-size: cover;
 }
@@ -294,7 +294,7 @@
 
 .u-section-4 .u-image-3 {
   min-height: 868px;
-  background-image: url("../../../images/Alice3.jpg");
+  background-image: url("https://rickimage-1322405451.cos.ap-guangzhou.myqcloud.com/images/Alice3.jpg");
   background-position: 50% 50%;
 }
 
@@ -463,7 +463,7 @@
 
 .u-section-6 .u-image-1 {
   min-height: 1256px;
-  background-image: url("../../../images/DZS06291.jpg");
+  background-image: url("https://rickimage-1322405451.cos.ap-guangzhou.myqcloud.com/images/DZS06291.jpg");
   background-position: 50% 50%;
 }
 
@@ -481,7 +481,7 @@
 
 .u-section-6 .u-image-2 {
   min-height: 536px;
-  background-image: url("../../../images/DZS06301.jpg");
+  background-image: url("https://rickimage-1322405451.cos.ap-guangzhou.myqcloud.com/images/DZS06301.jpg");
   background-position: 50% 71.57%;
   background-size: cover;
 }
@@ -492,7 +492,7 @@
 
 .u-section-6 .u-image-3 {
   min-height: 884px;
-  background-image: url("../../../images/DZS06591.jpg");
+  background-image: url("https://rickimage-1322405451.cos.ap-guangzhou.myqcloud.com/images/DZS06591.jpg");
   background-position: 50% 83.07%;
   background-size: cover;
 }

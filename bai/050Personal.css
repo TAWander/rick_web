@@ -1,6 +1,6 @@
  .u-section-1 {
   filter: none;
-  background-image: url("../images/back.png");
+  background-image: url("https://rickimage-1322405451.cos.ap-guangzhou.myqcloud.com/images/back.png");
   background-position: 50% 50%;
 }
 
@@ -12,7 +12,7 @@
   width: 366px;
   min-height: 665px;
   height: auto;
-  background-image: url("../images/OUT.png");
+  background-image: url("https://rickimage-1322405451.cos.ap-guangzhou.myqcloud.com/images/OUT.png");
   margin: 328px auto 0 363px;
 }
 
