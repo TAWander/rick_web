@@ -1,0 +1,100 @@
+.u-section-gallery {
+  background-color: #1a1a1a;
+  min-height: 100vh;
+}
+
+.u-section-gallery .u-sheet-1 {
+  min-height: 100vh;
+  padding: 40px 0;
+  max-width: 1400px;
+  margin: 0 auto;
+}
+
+.u-section-gallery .u-gallery-1 {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.u-section-gallery .u-gallery-inner-1 {
+  display: block !important;
+}
+
+.u-section-gallery .u-gallery-item {
+  display: block !important;
+  width: 100% !important;
+  margin-bottom: 20px !important;
+  position: relative !important;
+  border-radius: 4px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+  overflow: hidden !important;
+}
+
+.u-section-gallery .u-gallery-item:last-child {
+  margin-bottom: 0 !important;
+}
+
+/* 禁用 nicepage 悬停效果 */
+.u-section-gallery .u-effect-hover-zoom,
+.u-section-gallery .u-effect-hover-zoom .u-back-slide,
+.u-section-gallery .u-effect-hover-zoom .u-back-image {
+  transform: none !important;
+  transition: none !important;
+}
+
+.u-section-gallery .u-effect-hover-zoom:hover .u-back-image {
+  transform: none !important;
+}
+
+.u-section-gallery .u-back-slide {
+  display: block !important;
+  width: 100% !important;
+  height: auto !important;
+  position: relative !important;
+  background-color: #2a2a2a;
+  line-height: 0;
+}
+
+.u-section-gallery .u-back-image {
+  display: block !important;
+  width: 100% !important;
+  height: auto !important;
+  max-width: 100% !important;
+  position: relative !important;
+  object-fit: contain !important;
+}
+
+@media (max-width: 1199px) {
+  .u-section-gallery .u-sheet-1 {
+    padding: 30px 15px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-gallery .u-sheet-1 {
+    padding: 25px 10px;
+  }
+
+  .u-section-gallery .u-gallery-item {
+    margin-bottom: 15px !important;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-gallery .u-sheet-1 {
+    padding: 20px 10px;
+  }
+
+  .u-section-gallery .u-gallery-item {
+    margin-bottom: 12px !important;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-gallery .u-sheet-1 {
+    padding: 15px 10px;
+  }
+
+  .u-section-gallery .u-gallery-item {
+    margin-bottom: 10px !important;
+  }
+}
